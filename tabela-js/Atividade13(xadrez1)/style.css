@@ -1,0 +1,18 @@
+body {
+    width: auto;
+    
+}
+
+.quadrado{
+    height: 30px;
+    width: 30px;
+    border: 1.5px solid grey;
+}
+
+.quadrado1{
+    background-color: black;
+}
+
+.quadrado2 {
+    background-color: white;
+}
